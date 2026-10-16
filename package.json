@@ -1,0 +1,6 @@
+{
+  "name": "repo-tiers",
+  "version": "0.0.1",
+  "description": "A test package for the risk ladder. Never published.",
+  "main": "src/greeting.js"
+}
