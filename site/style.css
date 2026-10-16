@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+.hero {
+  padding: 4rem 2rem;
+  background: #f4f4f4;
+  color: #111;
+}
+
+footer {
+  padding: 1rem 2rem;
+  font-size: 0.875rem;
+}
