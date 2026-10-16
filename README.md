@@ -4,7 +4,9 @@ A test repo for selling files on the risk ladder, on testnet.
 
 ## Sponsor
 
+<!-- slot:sponsor -->
 Your words here.
+<!-- /slot -->
 
 ## About
 

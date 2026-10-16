@@ -1,8 +1,10 @@
 // The greeting the page prints.
 
+/* slot:greeting */
 function greeting(name) {
   return `Hello, ${name}.`;
 }
+/* /slot */
 
 function farewell(name) {
   return `Goodbye, ${name}.`;

@@ -3,11 +3,13 @@ body {
   font-family: system-ui, sans-serif;
 }
 
+/* slot:hero */
 .hero {
   padding: 4rem 2rem;
   background: #f4f4f4;
   color: #111;
 }
+/* /slot */
 
 footer {
   padding: 1rem 2rem;
