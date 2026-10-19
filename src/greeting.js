@@ -4,7 +4,7 @@
 function greeting(name) {
   // Rewritten by whoever holds this part.
   const dot = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=';
-  return `<img src="${dot}" alt=""> Hi there, ${name}!`;
+  return `<img src="${dot}" alt=""> Hi there, PJ!`;
 }
 /* /slot */
 
