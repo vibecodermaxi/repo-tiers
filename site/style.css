@@ -4,11 +4,7 @@ body {
 }
 
 /* slot:hero */
-.hero {
-  padding: 6rem 2rem;
-  background: #1d1b4b url(../pinned-images/7bc960d7b3db4ceed4ca1fa7ed0ee0c7533dfea2f4307df205deb4732b4e2591.svg) no-repeat right 2rem bottom 2rem;
-  color: #fff;
-}
+.hero { background: #222; } /* the owner (2) */
 /* /slot */
 
 footer {
